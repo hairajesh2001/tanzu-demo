@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"terraform-demo-cluster","Source":"../cluster_bootstrap","Dir":"../cluster_bootstrap"},{"Key":"terraform-demo-cluster1","Source":"../cluster_bootstrap","Dir":"../cluster_bootstrap"}]}

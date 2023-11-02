@@ -1,7 +1,4 @@
-#variable "vmw_cloud_api_token" {
-#type = string
-#default = "K0j2Y7UV4LoWmkOLM0TlkOzTMM4gFY0K7b57a7unKJL77eTYvzaYD3fk92rkp-g5"
-#}
+
 variable "mgt_cluster_name"{
 type = string
 }

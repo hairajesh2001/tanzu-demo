@@ -2,7 +2,7 @@ terraform {
     backend "s3" {
     bucket= "terraform"
     key=  "terraform.tfstate"
-    endpoint= "https://dev-affcluster02a-s3.dev.e2open.com"
+    endpoint= "https://dev-affcluster02a-s3.dev.homelab.com"
     access_key     = "GFY7Z63Y5YQGI872WDR7"
     secret_key     = "25HcZ5_XBwcb7BGqx53ODDYuMXcBPe1Fx_gB_9qA"
     region= "us-east-1"

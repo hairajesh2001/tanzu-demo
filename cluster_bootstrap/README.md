@@ -1,5 +1,4 @@
-#
-This is module which executed during cluster provisioning.
+#here are the module which executed during cluster provisioning.
 
 below the list of variables need to be declared in cluster  declaration file
 
